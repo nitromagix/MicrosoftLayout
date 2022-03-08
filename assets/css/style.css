@@ -1,5 +1,10 @@
 a{
    text-decoration: none;
+   color: black;
+}
+a:hover
+{
+   text-decoration: underline;
 }
 
 body{
@@ -14,7 +19,22 @@ nav, nav ul li{
 
 #banner{
    background-color:rgb(240, 240, 240);
-   height:300px
+   height:300px;
+   text-align: center;
+}
+
+#banner div{
+   display:inline-block;
+   width: 45%;
+   vertical-align:middle;
+}
+
+#banner-desc{
+   text-align: left;
+}
+
+#banner-img img{
+   width:275px;
 }
 
 #icons{
