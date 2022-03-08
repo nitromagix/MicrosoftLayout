@@ -1,0 +1,53 @@
+a{
+   text-decoration: none;
+}
+
+body{
+   margin-right: 25px;
+   margin-left: 25px;
+}
+
+nav, nav ul li{
+   display: inline-block;
+   margin:5px
+}
+
+#banner{
+   background-color:rgb(240, 240, 240);
+   height:300px
+}
+
+#icons{
+   margin-top:75px;
+   margin-bottom:75px;
+   text-align: center;
+   
+}
+
+#mini-layout{
+   text-align: center;
+}
+
+.icon{
+   display: inline-block;
+   width:125px;
+   margin-left:25px;
+   margin-right:25px;
+   vertical-align: top;
+}
+
+.icon i{
+   font-size:xx-large;
+}
+
+.layout{
+   display: inline-block;
+   width:200px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.layout-image{
+   background-color:rgb(240, 240, 240);
+   margin-bottom:15px ;
+}
